@@ -1,6 +1,6 @@
-numpy
+numpy<2.0.0
 scipy
-sklearn
+scikit-learn
 numexpr
 fastcluster
 h5py
@@ -10,3 +10,4 @@ kaldi_io
 torch
 tabulate
 intervaltree
+pyannote.audio
